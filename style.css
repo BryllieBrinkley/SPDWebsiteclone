@@ -1,0 +1,56 @@
+html {
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+background-image: url("doordash-clone.png");
+}
+
+.jumbotron {
+background-image: url("doordash-clone.png");
+height: 430px;
+line-spacing: 40px;
+font-size: 35px;
+margin: center;
+}
+
+img{
+position: absolute;
+top:  90%;
+left: 275px;
+}
+
+
+h1{
+color: white;
+text-align: center;
+position: absolute;
+top: 30%;
+left: 370px;
+}
+
+p {
+width: 56;
+height: 32;
+color: white;
+text-align: center;
+position: absolute;
+top: 60%;
+left: 250px;
+}
+
+.balloon {
+border-radius: 70%;
+margin: center;
+}
+
+
+.button {
+  border: none;
+  border-radius: 60%;
+  padding: 20px 20px;
+  width: 40%;
+  text-align: center;
+  font-size: 16px;
+}
+
+delivery.input {
+left: 250px;
+}
